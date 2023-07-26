@@ -1,4 +1,7 @@
 <?php
+
+require_once('entity/mammifere.php');
+
     class Chien extends Mammifere
     {
         private int $nbPattes;

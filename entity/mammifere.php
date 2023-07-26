@@ -1,4 +1,7 @@
 <?php
+
+require_once('animal.php');
+
     class Mammifere extends Animal
     {
         private string $type;

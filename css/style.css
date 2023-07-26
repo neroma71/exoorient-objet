@@ -1,0 +1,30 @@
+*{
+    font-family:Helvetica, sans-serif;
+    color:white;
+}
+body{
+    min-height:100vh;
+    width:100vw;
+    margin:0 auto;
+    padding:0;
+}
+.machine{
+    width:980px;
+    height:300px;;
+    margin:0 auto;
+    text-align:center;
+    background:rgb(89, 65, 36);
+}
+.marque{
+    height:40px;
+    width:980px;
+    text-align:center;
+    line-height:40px;
+    background:rgb(145, 109, 56);
+    color:white;
+}
+.start{
+    margin-top:20px;
+    background:black;
+    border-radius:5px;
+}

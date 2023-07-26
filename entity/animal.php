@@ -27,6 +27,7 @@
 
                 return $this;
         }
+        
         public function info(): string
         {
             return "je suis un animal";
